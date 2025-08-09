@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 import { type Anime, AnimeData } from "./anime";
 
 export const metadata: Metadata = {
-  title: "vimfn // anime",
+  title: "yz // anime",
   description: "Find a list of my fav and currently watching anime.",
 };
 

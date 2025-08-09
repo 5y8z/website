@@ -22,7 +22,6 @@ type TabKey =
 
 const tabs: Array<{ id: TabKey; title: string }> = [
   { id: "all", title: "All" },
-  { id: "everyday", title: "Everyday" },
   { id: "software", title: "Software" },
   { id: "browser", title: "Browser" },
   { id: "coding", title: "Coding" },

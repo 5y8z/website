@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "vimfn // work",
+  title: "yz // work",
   description: "Find a list of all my projects here.",
 };
 
@@ -18,7 +18,7 @@ const workPage = () => {
         <p>
           Always happy to discuss new ideas — hit me a up at
           <a
-            href="http://x.com/vimfnx"
+            href="http://x.com/cryharderxd"
             className="link ml-1"
             target="_blank"
             rel="noopener noreferrer"

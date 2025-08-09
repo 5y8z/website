@@ -25,7 +25,7 @@ export const DCStatus = () => {
         ) : (
           <div className="text-xl font-semibold text-black dark:text-white">
             {data?.data.discord_status}
-            <p className="text-sm">(@vimfn)</p>
+            <p className="text-sm">(@ayzxsh)</p>
           </div>
         )}
       </div>

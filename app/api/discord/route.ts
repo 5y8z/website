@@ -41,7 +41,7 @@ export const dynamic = "force-dynamic";
 
 export const GET = async () => {
   const res = await fetch(
-    "https://api.lanyard.rest/v1/users/947145304757641216",
+    "https://api.lanyard.rest/v1/users/1285263675749306401",
     {
       headers: {
         "Content-Type": "application/json",

@@ -2,7 +2,7 @@ import { env } from "@/app/env";
 import { getAlbumCover } from "./get-album-cover";
 
 const LASTFM_API = "https://ws.audioscrobbler.com/2.0";
-const LASTFM_USERNAME = "vimfnx";
+const LASTFM_USERNAME = "ayzxsh";
 const LASTFM_ENDPOINT = `${LASTFM_API}?method=user.getRecentTracks&api_key=${env.LASTFM_API_TOKEN}&format=json&user=${LASTFM_USERNAME}&limit=1`;
 
 type Boolean = "0" | "1";

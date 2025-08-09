@@ -3,7 +3,7 @@ import TopAblums from "@/components/misc/(music)/top-albums";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "vimfn // music",
+  title: "yz // music",
   description: "Get an Idea of my music taste.",
 };
 

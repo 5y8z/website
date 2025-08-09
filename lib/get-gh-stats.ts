@@ -53,7 +53,7 @@ export const getGHStats = cache(
           }
         }
       `,
-      { login: "vimfn" },
+      { login: "5y8z" },
     );
     return {
       issues: user.closedIssues.totalCount + user.openIssues.totalCount,

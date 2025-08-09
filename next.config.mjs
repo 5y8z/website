@@ -20,17 +20,17 @@ const nextConfig = {
     return [
       {
         source: "/(gh|github|git)/:slug*",
-        destination: "https://github.com/vimfn/:slug*",
+        destination: "https://github.com/5y8z/:slug*",
         permanent: true,
       },
       {
         source: "/sponsor",
-        destination: "https://github.com/sponsors/vimfn",
+        destination: "https://github.com/sponsors/5y8z",
         permanent: true,
       },
       {
         source: "/(twitter|x)",
-        destination: "https://twitter.com/vimfnx",
+        destination: "https://twitter.com/cryharderxd",
         permanent: true,
       },
       {

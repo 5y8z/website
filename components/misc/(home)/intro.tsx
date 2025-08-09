@@ -6,19 +6,13 @@ export const Intro = () => {
     <section className="mt-8 text-zinc-600 dark:text-zinc-400">
       <div className="space-y-5">
         <p>
-          hi, i'm arunava (a.k.a
-          <a
-            className="link text-black dark:text-white/95 ml-1 underline-offset-auto underline"
-            href="https://www.vimfn.in/alias"
-          >
-            vimfn
-          </a>{" "}
-          on the internet) currently a cs undergrad at [redacted], my interests
+          hi, i'm yz
+          my interests
           include compilers, computer networks, and ctfs.
         </p>
         <p>
           beyond my studies, i enjoy my time playing chess, jamming to music,
-          modding factorio or just tinkering with stuff to understand how they
+          modding games or just tinkering with stuff to understand how they
           work.
         </p>
         <p>
@@ -26,13 +20,6 @@ export const Intro = () => {
           minimalism and hacker ethics.
         </p>
         <br />
-        🚧 note: this site isn't ready yet, you should better be visting
-        <a
-          className="link text-black dark:text-white/95 ml-1 underline-offset-auto underline"
-          href="https://www.vimfn.in"
-        >
-          vimfn.in
-        </a> for any info.
         <br />
         <div>
           <Link
@@ -68,19 +55,13 @@ export const Intro = () => {
         feel free to reach me out at
         <a
           className="link text-black dark:text-white/95 mx-1 underline underline-offset-auto"
-          href="http://x.com/vimfnx"
+          href="http://x.com/cryharderxd"
           target="_blank"
           rel="noopener noreferrer"
         >
           x.com
         </a>
-        or drop an
-        <a
-          className="link text-black dark:text-white/95 ml-1 underline-offset-auto underline"
-          href="mailto:hi@vimfn.in"
-        >
-          email
-        </a>
+
         .
       </div>
     </section>

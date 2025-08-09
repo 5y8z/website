@@ -30,28 +30,22 @@ export const AllTabs = () => {
 
 const EverydayTabData = [
   {
-    key: "Laptop",
-    desc: "Lenovo AMD Ryzen X + 16 GB RAM + NVIDIA GeForce GTX 30XX + 2TB SSD",
+    
   },
   {
-    key: "Old Laptop",
-    desc: "HP Laptop 15s running Ubuntu Server (yes, I kind of made it a homelab)",
+    
   },
-  {
-    key: "Secondary Monitor",
-    desc: "BenQ GW2283 (22 inch)",
-  },
+  
 ];
 
 export const EverydayTab = () => {
   return (
     <div>
-      <h1 className="text-2xl font-bold py-8">Everyday</h1>
+      
 
       {EverydayTabData.map((data, i) => (
         <div key={i}>
-          <span className="font-medium dark:text-white">{data.key}: </span>
-          <span className="text-zinc-600 dark:text-zinc-400">{data.desc}</span>
+          
         </div>
       ))}
     </div>
@@ -61,7 +55,7 @@ export const EverydayTab = () => {
 const SoftwareTabData = [
   {
     key: "OS",
-    desc: "Fedora Linux",
+    desc: "Arch Linux",
   },
   {
     key: "Init System",
@@ -73,15 +67,15 @@ const SoftwareTabData = [
   },
   {
     key: "Window Manager",
-    desc: "i3wm",
+    desc: "hyprland",
   },
   {
     key: "Terminal",
-    desc: "Alacritty",
+    desc: "foot",
   },
   {
     key: "Text Editor",
-    desc: "Neovim",
+    desc: "VSCodium",
   },
   {
     key: "Video Streaming",
@@ -89,11 +83,11 @@ const SoftwareTabData = [
   },
   {
     key: "Music",
-    desc: "MPD + NCMPCPP (and occasionally Spotify or YT Music)",
+    desc: "Spotify",
   },
   {
     key: "Notes",
-    desc: "Neovim+Telescope",
+    desc: "Obsidian",
   },
   {
     key: "Password Manager",
@@ -157,7 +151,7 @@ export const BrowserTab = () => {
         <h1 className="text-2xl font-bold py-8">Browser</h1>
 
         <div className="pb-5">
-          I use <code>chromium</code> as my primary browser, and{" "}
+          I use <code>zen</code> as my primary browser, and{" "}
           <code>firefox-developer-edition</code> as my secondary browser, along
           with following extensions:
         </div>

@@ -10,11 +10,6 @@ export const faqs: FaqTypes[] = [
       "Technically, I began coding around the age of 12, but I took it more seriously during the lockdown due to the COVID-19 pandemic when schools were closed.",
   },
   {
-    question: "Can I see your resume?",
-    answer:
-      "Certainly! If you're a recruiter, please contact me via email at <a target='_blank' class='link' href='mailto:hi@vimfn.in'>hi@vimfn.in</a>. You can also find my LinkedIn profile <a target='_blank' class='link' href='https://www.linkedin.com/in/vimfn/'>here</a>.",
-  },
-  {
     question: "How did you learn to code? Can you share some resources?",
     answer:
       "Mostly by playing around and building things. Documentation is the best place to learn about something, but if you are a beginner, you can start with the book <a class='link' target='_blank' href='https://automatetheboringstuff.com/#toc'>Automate the Boring Stuff with Python</a> or refer to <a target='_blank' class='link' href='https://www.youtube.com/c/Freecodecamp'>freeCodeCamp </a> videos on YouTube.",

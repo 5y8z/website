@@ -12,9 +12,9 @@ import Image from "next/image";
 const inter = Inter({ subsets: ["latin"] });
 
 const info = {
-  name: "arunava",
-  twitter: "@vimfnx",
-  description: "19yo Software Engineer, India",
+  name: "yz // home",
+  twitter: "@cryharderlmao",
+  description: "Software Engineer, India",
   url: "https://vimfn.in",
   image: "/meta/meta.png",
 };

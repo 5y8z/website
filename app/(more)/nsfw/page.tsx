@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "vimfn // nsfw",
+  title: "yz // nsfw",
   description: "🥵",
 };
 
