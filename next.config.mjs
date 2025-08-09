@@ -35,7 +35,7 @@ const nextConfig = {
       },
       {
         source: "/(linkedin|ln)",
-        destination: "https://www.linkedin.com/in/vimfn/",
+        destination: "https://www.linkedin.com/in/soul-undefined-6a4204337/",
         permanent: true,
       },
       {
