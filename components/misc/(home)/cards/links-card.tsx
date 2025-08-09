@@ -5,7 +5,7 @@ export const LinksCard = () => {
   return (
     <div className="flex gap-2">
       <a
-        href="http://linkedin.com/in/soul-undefined-6a4204337"
+        href="http://www.linkedin.com/in/yz-z-295753379"
         target="_blank"
         className="hover:scale-95 duration-500 transform-gpu h-[4.125rem] flex flex-col justify-center items-center rounded-lg text-white bg-[#2867b2] w-full "
         rel="noreferrer"
