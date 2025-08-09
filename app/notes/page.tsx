@@ -5,7 +5,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "vimfn // notes",
+  title: "yz // notes",
   description: "notes I guess.",
 };
 
@@ -26,7 +26,7 @@ const notesPage = () => {
             </a>{" "}
             or follow on
             <a
-              href="https://x.com/vimfnx"
+              href="https://x.com/cryharderxd"
               target="_blank"
               className="link mx-1"
               rel="noreferrer"
