@@ -77,7 +77,7 @@ const ContactCard = () => {
               render={({ field }) => (
                 <FormItem>
                   <FormControl>
-                    <Input placeholder="[redacted]" {...field} />
+                    <Input placeholder="example@google.com" {...field} />
                   </FormControl>
                   <FormMessage />
                 </FormItem>
