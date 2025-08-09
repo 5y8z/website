@@ -77,7 +77,7 @@ const ContactCard = () => {
               render={({ field }) => (
                 <FormItem>
                   <FormControl>
-                    <Input placeholder="hi@vimfn.in" {...field} />
+                    <Input placeholder="[redacted]" {...field} />
                   </FormControl>
                   <FormMessage />
                 </FormItem>
